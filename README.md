@@ -14,7 +14,7 @@
 ##Brief:
 <a name = "b"></a>
 
-<img src = "[Imgur](http://i.imgur.com/VNrWYzr.jpg)">
+<img src = "http://i.imgur.com/VNrWYzr.jpg">
 
 * **Full name:** Nguyễn Văn Tới
 * **Birthday:** 26/10/1996

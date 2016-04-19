@@ -1,5 +1,5 @@
-
 <a name = "top"></a>
+
 # Profile
 # Contents:
 
@@ -8,34 +8,45 @@
 * [3. Contacts] (#c)
 * [4. Programing] (#p)
 * [5. Other] (#o)
+
 ---
+
 ##Brief:
 <a name = "b"></a>
+
 <img src = "[Imgur](http://i.imgur.com/VNrWYzr.jpg)">
 
 * **Full name:** Nguyễn Văn Tới
 * **Birthday:** 26/10/1996
 * **Home town:** Quỳnh Phụ -  Thái Bình
+
 ----
+
 ##Study:
 <a name = "s"></a>
-* **2011-2014:** Qu?nh Côi hight school
+* **2011-2014:** Quỳnh Côi hight school
 * **2014-now:** UET - VNU
+
 ----
+
 ##Contacts:
 <a name = "c"></a>
 
 * **Email:** toinv2610@gmail.com
 * **Phone number:** 01653704859
 * **Skype**: *anhtoi2610*
+
 ----
+
 ##Programing:
 <a name = "p"></a>
 
 * **Language:** C/C++, java.
 * **Level:** Basic
 * **Product**: Hello World
+
 ----
+
 ##Other:
 <a name = "o"></a>
 

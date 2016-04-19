@@ -13,9 +13,9 @@
 <a name = "b"></a>
 <img src = "[Imgur](http://i.imgur.com/VNrWYzr.jpg)">
 
-* **Full name:** Nguy?n Van T?i
+* **Full name:** Nguyễn Văn Tới
 * **Birthday:** 26/10/1996
-* **Home town:** Qu?nh Ph? -  Thái Bình
+* **Home town:** Quỳnh Phụ -  Thái Bình
 ----
 ##Study:
 <a name = "s"></a>

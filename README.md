@@ -14,7 +14,7 @@
 ##Brief:
 <a name = "b"></a>
 
-<img src = "http://i.imgur.com/VNrWYzr.jpg" weight = "150px" height = "150">
+<img src = "http://docs.w3af.org/en/latest/_images/manual-http.png" weight = "150px" height = "150">
 
 * **Full name:** Nguyễn Văn Tới
 * **Birthday:** 26/10/1996
